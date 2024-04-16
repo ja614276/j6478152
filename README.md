@@ -44,5 +44,5 @@ https://github.com/ja614276/j6478152
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia ja614276](LICENSE).
+Este proyecto está bajo la [Licencia] ja614276 (LICENSE).
 
